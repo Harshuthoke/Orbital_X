@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
+
+body {
+    width: 100vh;
+    height: 100vh;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    background-color: rgb(220, 220, 220);
+
+}
+
+.text {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    width: 600px;
+    height: 300px;
+    position: absolute;
+    margin: -150px 0 0 -300px;
+    top: 50%;
+    left: 50%;
+}
+
+.text p {
+    font-size: 30px;
+    padding: 0;
+    position: relative;
+    font-family: 'Amatic SC', cursive;
+}
+
+
+
+.img {
+    position: absolute;
+    height: 20%;
+    width: auto;
+    
+}
+
+.img1 {
+    top: 5%;
+    left: 53%;
+    
+
+
+}
+
+.img2 {
+    top: 3%;
+    left: 5%;
+    
+
+}
+.img8 {
+    
+    height: 100px;
+    width: 150px;
+    margin-top: 510px;
+    margin-left: 600px;
+}
+
+.img9 {
+    
+    height: 100px;
+    width: 150px;
+    margin-right: 200px;
+    margin-top: 503px;
+}
+.img3 {
+    top: -5%;
+    left: 30%;
+    
+
+
+}
+
+.links {
+    display: flex;
+    justify-content: safe;
+    
+}
+
+
+
+  
+  
+
+
+
+.links2 {
+    display: flex;
+    justify-content: center;
+}
+
+.links2 p {
+    margin-top: 500px;
+    
+    margin-left: 400px;
+}
+
+
+.img4 {
+    left: 80%;
+    top: -5%;
+    
+
+
+}
+
+.img5 {
+    left: 5%;
+    top: 70%;
+    
+
+}
+
+.img6 {
+    left: 90%;
+    top: 40%;
+    
+
+}
+
+.img7 {
+    top: 80%;
+    left: 60%;
+    
+
+}
+
